@@ -4,6 +4,8 @@
 
 ![alt text](src/call-of-cthulhu.jpeg)
 
+---
+
 _Зміст README:_
 
 - [Call of Cthulhu (Поклик Ктулгу) - українізатор](#call-of-cthulhu-поклик-ктулгу---українізатор)
@@ -37,6 +39,8 @@ _Де скачать pak з перекладами?_
 - GitHub: https://github.com/IamMykytko/Call-of-Cthulhu-ukrainizator або https://github.com/DiD0LEKSA/CoCUA-public-
 - Google Drive: https://drive.google.com/drive/folders/1Zm4mnHBUnIcgi1y00T2xXG_ONuSLU7Oo?usp=sharing
 
+---
+
 ## Переклад Steam-досягнень гри на українську
 
 Для встановлення українізатора досягнень, треба завантажити необхідний файл [UserGame...810.bin](UserGameStatsSchema_399810.bin) та помістити його за наступним шляхом:
@@ -46,6 +50,8 @@ _Де скачать pak з перекладами?_
 - _На MacOS_: _наразі інформація відсутня_
 
 Та встановіть туди наш .bin-файл, і ваші досягнення гри будуть тепер на українській мові!
+
+---
 
 ## Автоматизована інсталяція
 
